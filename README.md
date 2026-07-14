@@ -99,7 +99,7 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
 </pre>
 
 <h5>CAPACIADES BÁSICAS:</h5>
-
+<pre>
 1. Identificar as características e os princípios de funcionamento de um computador.
 2. Empregar procedimentos seguros para utilizar computadores sem expor-se a riscos digitais.
 3. Identificar os diferentes tipos de redes de computadores.
@@ -108,12 +108,15 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
 6. Aplicar funções em planilhas eletrônicas.
 7. Interpretar dados estatísticos, apresentados em gráficos, planilhas e dashboards.
 8. Elaborar apresentação por meio de recursos diversos.
+</pre>
 
 <h5>CAPACIADES SOCIOEMOCIONAIS:</h5>
-<b>Autogestão</b>
-1. Demonstrar capacidade de organização
-2. Demonstrar zelo pelos equipamentos
-<b>Trabalho em equipe</b>
-3. Trabalhar de forma colaborativa
-<b>Pensamento analítico</b>
-4. Demonstrar raciocínio lógico
+<pre>
+    <b>Autogestão</b>
+        1. Demonstrar capacidade de organização
+        2. Demonstrar zelo pelos equipamentos
+    <b>Trabalho em equipe</b>
+        3. Trabalhar de forma colaborativa
+    <b>Pensamento analítico</b>
+        4. Demonstrar raciocínio lógico
+</pre>
