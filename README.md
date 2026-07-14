@@ -18,7 +18,7 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
         6.3. Impactos na sociedade
 </pre>
 <pre>
-    <b>7. Hardware<b>
+    <b>7. Hardware</b>
         7.1. Definição
         7.2. Componentes
             7.2.1. Armazenamento
