@@ -1,10 +1,9 @@
-# TÉCNICO EM ADMINISTRAÇÃO
-## Módulo: Ferramentas Digitais para o Mercado de Trabalho - FDMT
-Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariúna.
+# Ferramentas Digitais para o Mercado de Trabalho - FDMT
+Material de Estudo para o Curso de Técnico em Administração e Eletroeletrônica - SENAI Jaguariúna.
 
 <b>Profº Jansen Leite</b><br />
 
-<h5>OBJETIVO DO CURSO:</h5>
+<h4>OBJETIVO DO CURSO:</h4>
 <label>Desenvolver capacidades básicas e socioemocionais relativas ao uso das ferramentas digitais direcionadas ao mercado de trabalho, assim como, proporcionar a inclusão digital.</label>
 
 <h5>CARGA HORÁRIA: 60 Horas</h5>
@@ -113,10 +112,10 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
 <h5>CAPACIADES SOCIOEMOCIONAIS:</h5>
 <pre>
     <b>Autogestão</b>
-        1. Demonstrar capacidade de organização
-        2. Demonstrar zelo pelos equipamentos
+        1. Demonstrar capacidade de organização.
+        2. Demonstrar zelo pelos equipamentos.
     <b>Trabalho em equipe</b>
-        3. Trabalhar de forma colaborativa
+        3. Trabalhar de forma colaborativa.
     <b>Pensamento analítico</b>
-        4. Demonstrar raciocínio lógico
+        4. Demonstrar raciocínio lógico.
 </pre>
