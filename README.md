@@ -11,11 +11,11 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
 
 <h5>CONHECIMENTOS ADQUIRIDOS:</h5>
 
-- 6. Tecnologia digital1<br />
+6. Tecnologia digital1<br />
      &emsp;6.1. Definição<br />
      &emsp;6.2. Linha do tempo<br />
      &emsp;6.3. Impactos na sociedade<br />
-- 7. Hardware1
+7. Hardware1
     &emsp;7.1. Definição<br />
     &emsp;7.2. Componentes<br />
     &emsp;&emsp;7.2.1. Armazenamento<br />
