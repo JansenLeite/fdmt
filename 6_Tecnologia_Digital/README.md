@@ -17,4 +17,4 @@ Material de Estudo para o Curso de Técnico em Administração e Eletroeletrôni
 
 
 <h4>Atividades Avaliativas</h4>
-
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUNzJEVEpJRUdJUVc5MjlDVjQwM0k2UVRaNi4u">Clique aqui para responder ao formulário</a>
