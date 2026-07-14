@@ -1,7 +1,7 @@
 # Ferramentas Digitais para o Mercado de Trabalho - FDMT
 Material de Estudo para o Curso de Técnico em Administração e Eletroeletrônica - SENAI Jaguariúna.
 
-<h4>Módulo: Tenologia Digital</h4>
+<h3>Módulo: Tecnologia Digital</h3>
 
 <h4>Conhecimentos Adquiridos:</h4>
 
