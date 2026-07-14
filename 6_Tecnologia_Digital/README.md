@@ -12,9 +12,16 @@ Material de Estudo para o Curso de Técnico em Administração e Eletroeletrôni
         6.3. Impactos na sociedade
 </pre>
 
-<h4>Material de Apoio:</h4>
+<h3>Material de Apoio:</h3>
+
+<h4>Introdução a Tecnologia Digital</h4>
 <a href="https://github.com/JansenLeite/fdmt/blob/main/6_Tecnologia_Digital/FDMT_01_01_Introducao_Tecnologia_Digital.pdf">Clique aqui para acessá-lo.</a>
 
+<h4>Vídeo - A História da Microsoft (Bill Gates)</h4>
+<a href="https://www.youtube.com/watch?v=rQUklkkNrTs">Clique aqui para assistir.</a>
 
-<h4>Atividades Avaliativas</h4>
+
+<h3>Atividades Avaliativas</h3>
+
+<h4>Formulário de respostas- Atividade 01</h4>
 <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUNzJEVEpJRUdJUVc5MjlDVjQwM0k2UVRaNi4u">Clique aqui para responder ao formulário</a>
