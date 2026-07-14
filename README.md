@@ -3,7 +3,7 @@ Material de Estudo para o Curso de Técnico em Administração e Eletroeletrôni
 
 <b>Profº Jansen Leite</b><br />
 
-<h4>OBJETIVO DO CURSO:</h4>
+<h3>OBJETIVO DO CURSO:</h3>
 <label>Desenvolver capacidades básicas e socioemocionais relativas ao uso das ferramentas digitais direcionadas ao mercado de trabalho, assim como, proporcionar a inclusão digital.</label>
 
 <h5>CARGA HORÁRIA: 60 Horas</h5>
