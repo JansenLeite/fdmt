@@ -13,6 +13,8 @@ Material de Estudo para o Curso de Técnico em Administração e Eletroeletrôni
 </pre>
 
 <h4>Material de Apoio:</h4>
+<a href="https://github.com/JansenLeite/fdmt/blob/main/6_Tecnologia_Digital/FDMT_01_01_Introducao_Tecnologia_Digital.pdf">Clique aqui para acessá-lo.</a>
 
 
 <h4>Atividades Avaliativas</h4>
+
