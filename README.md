@@ -6,9 +6,9 @@ Material de Estudo para o Curso de Técnico em Administração e Eletroeletrôni
 <h3>OBJETIVO DO CURSO:</h3>
 <label>Desenvolver capacidades básicas e socioemocionais relativas ao uso das ferramentas digitais direcionadas ao mercado de trabalho, assim como, proporcionar a inclusão digital.</label>
 
-<h5>CARGA HORÁRIA: 60 Horas</h5>
+<h4>CARGA HORÁRIA: 60 Horas</h4>
 
-<h5>CONHECIMENTOS ADQUIRIDOS:</h5>
+<h4>CONHECIMENTOS ADQUIRIDOS:</h4>
 
 <pre>
     <b>6. Tecnologia digital</b>
@@ -97,7 +97,7 @@ Material de Estudo para o Curso de Técnico em Administração e Eletroeletrôni
         14.10. Exportação
 </pre>
 
-<h5>CAPACIADES BÁSICAS:</h5>
+<h4>CAPACIADES BÁSICAS:</h4>
 <pre>
 1. Identificar as características e os princípios de funcionamento de um computador.
 2. Empregar procedimentos seguros para utilizar computadores sem expor-se a riscos digitais.
@@ -109,7 +109,7 @@ Material de Estudo para o Curso de Técnico em Administração e Eletroeletrôni
 8. Elaborar apresentação por meio de recursos diversos.
 </pre>
 
-<h5>CAPACIADES SOCIOEMOCIONAIS:</h5>
+<h4>CAPACIADES SOCIOEMOCIONAIS:</h4>
 <pre>
     <b>Autogestão</b>
         1. Demonstrar capacidade de organização.
