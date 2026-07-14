@@ -16,7 +16,6 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
         6.1. Definição
         6.2. Linha do tempo
         6.3. Impactos na sociedade
-    
     <b>7. Hardware</b>
         7.1. Definição
         7.2. Componentes
@@ -26,7 +25,6 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
             7.3.1. Entrada
             7.3.2. Saída
             7.3.3. Armazenamento
-
     <b>8. Software</b>
         8.1. Definição
         8.2. Tipos
