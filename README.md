@@ -32,26 +32,22 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
             8.3.1. Definição
             8.3.2. Para estações de trabalho
             8.3.3. Para dispositivos móveis
-
     <b>9. Segurança digital</b>
         9.1. Golpes digitais
         9.2. Programas maliciosos
         9.3. LGPD
             9.3.1. Definição
             9.3.2. Aplicações
- 
     <b>10. Redes de computadores</b>
         10.1. Definição
         10.2. Redes com fio (cabeada)
         10.3. Redes sem fio (wi-fi)
-
     <b>11. Computação em nuvem</b>
         11.1. Definição
         11.2. Tipos
             11.2.1. Armazenamento
             11.2.2. Aplicações
             11.2.3. Ferramentas colaborativas
-
     <b>12. Editor de texto</b>
         12.1. Comandos
         12.2. Formatação
@@ -67,7 +63,6 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
             12.5.7. Função ditar
         12.6. Proteção do arquivo com senha
         12.7. Impressão
-
     <b>13. Planilha eletrônica</b>
         13.1. Organização de dados
             13.1.1. Formatação de células
@@ -90,7 +85,6 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
             13.10.3. Dashboards
         13.11. Impressão
         13.12. Macro
-
     <b>14. Ferramenta de apresentação</b>
         14.1. Edição
         14.2. Vídeos
