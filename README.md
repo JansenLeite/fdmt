@@ -17,15 +17,17 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
         6.2. Linha do tempo
         6.3. Impactos na sociedade
 </pre>
-<pre>7. Hardware</pre>
-    &emsp;7.1. Definição<br />
-    &emsp;7.2. Componentes<br />
-    &emsp;&emsp;7.2.1. Armazenamento<br />
-    &emsp;&emsp;7.2.2. Processamento<br />
-    &emsp;7.3. Periféricos<br />
-    &emsp;&emsp;7.3.1. Entrada<br />
-    &emsp;&emsp;7.3.2. Saída<br />
-    &emsp;&emsp;7.3.3. Armazenamento<br />
+<pre>
+    <b>7. Hardware<b>
+        7.1. Definição
+        7.2. Componentes
+            7.2.1. Armazenamento
+            7.2.2. Processamento
+        7.3. Periféricos
+            7.3.1. Entrada
+            7.3.2. Saída
+            7.3.3. Armazenamento
+</pre>
 - 8. Software<br />
     &emsp;8.1. Definição<br />
     &emsp;8.2. Tipos<br />
