@@ -28,94 +28,108 @@ Material de Estudo para o Curso de Técnico em Administração - SENAI Jaguariú
             7.3.2. Saída
             7.3.3. Armazenamento
 </pre>
-- 8. Software<br />
-    &emsp;8.1. Definição<br />
-    &emsp;8.2. Tipos<br />
-    &emsp;8.3. Sistemas operacionais<br />
-    &emsp;&emsp;8.3.1. Definição<br />
-    &emsp;&emsp;8.3.2. Para estações de trabalho<br />
-    &emsp;&emsp;8.3.3. Para dispositivos móveis<br />
-- 9. Segurança digital<br />
-    &emsp;9.1. Golpes digitais<br />
-    &emsp;9.2. Programas maliciosos<br />
-    &emsp;9.3. LGPD<br />
-    &emsp;&emsp;9.3.1. Definição<br />
-    &emsp;&emsp;9.3.2. Aplicações<br />
-- 10. Redes de computadores<br />
-    &emsp;10.1. Definição<br />
-    &emsp;10.2. Redes com fio (cabeada)<br />
-    &emsp;10.3. Redes sem fio (wi-fi)<br />
-- 11. Computação em nuvem<br />
-    &emsp;11.1. Definição<br />
-    &emsp;11.2. Tipos<br />
-    &emsp;&emsp;11.2.1. Armazenamento<br />
-    &emsp;&emsp;11.2.2. Aplicações<br />
-    &emsp;&emsp;11.2.3. Ferramentas colaborativas<br />
-- 12. Editor de texto<br />
-    &emsp;12.1. Comandos<br />
-    &emsp;12.2. Formatação<br />
-    &emsp;12.3. Imagens<br />
-    &emsp;12.4. Tabelas<br />
-    &emsp;12.5. Automatização<br />
-    &emsp;&emsp;12.5.1. Sumário<br />
-    &emsp;&emsp;12.5.2. Cabeçalho e rodapé<br />
-    &emsp;&emsp;12.5.3. Numeração de páginas<br />
-    &emsp;&emsp;12.5.4. Bibliografia<br />
-    &emsp;&emsp;12.5.5. Quebras<br />
-    &emsp;&emsp;12.5.6. Notas de rodapé<br />
-    &emsp;&emsp;12.5.7. Função ditar<br />
-    &emsp;12.6. Proteção do arquivo com senha<br />
-    &emsp;12.7. Impressão<br />
-- 13. Planilha eletrônica<br />
-    &emsp;13.1. Organização de dados<br />
-    &emsp;&emsp;13.1.1. Formatação de células<br />
-    &emsp;&emsp;13.1.2. Formatação condicional<br />
-    &emsp;&emsp;13.1.3. Tabelas<br />
-    &emsp;&emsp;13.1.4. Tabelas dinâmicas<br />
-    &emsp;&emsp;13.1.5. Filtros<br />
-    &emsp;&emsp;13.1.6. Classificação<br />
-    &emsp;13.2. Gráficos<br />
-    &emsp;13.3. Gráficos dinâmicos<br />
-    &emsp;13.4. Validação de dados<br />
-    &emsp;13.5. Proteção de células<br />
-    &emsp;13.6. Funções de texto<br />
-    &emsp;13.7. Funções matemáticas<br />
-    &emsp;13.8. Funções lógicas<br />
-    &emsp;13.9. Funções estatísticas<br />
-    &emsp;13.10. Business Intelligence – BI<br />
-    &emsp;&emsp;13.10.1. Definição<br />
-    &emsp;&emsp;13.10.2. Aplicações<br />
-    &emsp;&emsp;13.10.3. Dashboards<br />
-    &emsp;13.11. Impressão<br />
-    &emsp;13.12. Macro<br />
-- 14. Ferramenta de apresentação<br />
-    &emsp;14.1. Edição<br />
-    &emsp;14.2. Vídeos<br />
-    &emsp; 14.3. Editores de apresentação<br />
-    &emsp;14.4. Formatação<br />
-    &emsp;14.5. Slide mestre<br />
-    &emsp;14.6. Transições<br />
-    &emsp;14.7. Animações<br />
-    &emsp;14.8. Impressão<br />
-    &emsp;14.9. Gravação de tela<br />
-    &emsp;14.10. Exportação<br />
+<pre>
+    <b>8. Software</b>
+        8.1. Definição
+        8.2. Tipos
+        8.3. Sistemas operacionais
+            8.3.1. Definição
+            8.3.2. Para estações de trabalho
+            8.3.3. Para dispositivos móveis
+</pre>
+<pre>
+    <b>9. Segurança digital</b>
+        9.1. Golpes digitais
+        9.2. Programas maliciosos
+        9.3. LGPD
+            9.3.1. Definição
+            9.3.2. Aplicações
+</pre>
+<pre> 
+    <b>10. Redes de computadores</b>
+        10.1. Definição
+        10.2. Redes com fio (cabeada)
+        10.3. Redes sem fio (wi-fi)
+</pre>
+<pre>
+    <b>11. Computação em nuvem</b>
+        11.1. Definição
+        11.2. Tipos
+            11.2.1. Armazenamento
+            11.2.2. Aplicações
+            11.2.3. Ferramentas colaborativas
+</pre>
+<pre>
+    <b>12. Editor de texto</b>
+        12.1. Comandos
+        12.2. Formatação
+        12.3. Imagens
+        12.4. Tabelas
+        12.5. Automatização
+            12.5.1. Sumário
+            12.5.2. Cabeçalho e rodapé
+            12.5.3. Numeração de páginas
+            12.5.4. Bibliografia
+            12.5.5. Quebras
+            12.5.6. Notas de rodapé
+            12.5.7. Função ditar
+        12.6. Proteção do arquivo com senha
+        12.7. Impressão
+</pre>
+<pre>
+    <b>13. Planilha eletrônica</b>
+        13.1. Organização de dados
+            13.1.1. Formatação de células
+            13.1.2. Formatação condicional
+            13.1.3. Tabelas
+            13.1.4. Tabelas dinâmicas
+            13.1.5. Filtros
+            13.1.6. Classificação
+        13.2. Gráficos
+        13.3. Gráficos dinâmicos
+        13.4. Validação de dados
+        13.5. Proteção de células
+        13.6. Funções de texto
+        13.7. Funções matemáticas
+        13.8. Funções lógicas
+        13.9. Funções estatísticas
+        13.10. Business Intelligence – BI
+            13.10.1. Definição
+            13.10.2. Aplicações
+            13.10.3. Dashboards
+        13.11. Impressão
+        13.12. Macro
+</pre>
+<pre>
+    <b>14. Ferramenta de apresentação</b>
+        14.1. Edição
+        14.2. Vídeos
+        14.3. Editores de apresentação
+        14.4. Formatação
+        14.5. Slide mestre
+        14.6. Transições
+        14.7. Animações
+        14.8. Impressão
+        14.9. Gravação de tela
+        14.10. Exportação
+</pre>
 
 <h5>CAPACIADES BÁSICAS:</h5>
 
-1. Identificar as características e os princípios de funcionamento de um computador.<br />
-2. Empregar procedimentos seguros para utilizar computadores sem expor-se a riscos digitais.<br />
-3. Identificar os diferentes tipos de redes de computadores.<br />
-4. Realizar atividades colaborativas com grupos diversos por meio da computação em nuvem.<br />
-5. Elaborar documentos utilizando softwares específicos.<br />
-6. Aplicar funções em planilhas eletrônicas.<br />
-7. Interpretar dados estatísticos, apresentados em gráficos, planilhas e dashboards.<br />
-8. Elaborar apresentação por meio de recursos diversos.<br />
+1. Identificar as características e os princípios de funcionamento de um computador.
+2. Empregar procedimentos seguros para utilizar computadores sem expor-se a riscos digitais.
+3. Identificar os diferentes tipos de redes de computadores.
+4. Realizar atividades colaborativas com grupos diversos por meio da computação em nuvem.
+5. Elaborar documentos utilizando softwares específicos.
+6. Aplicar funções em planilhas eletrônicas.
+7. Interpretar dados estatísticos, apresentados em gráficos, planilhas e dashboards.
+8. Elaborar apresentação por meio de recursos diversos.
 
 <h5>CAPACIADES SOCIOEMOCIONAIS:</h5>
-<b>Autogestão</b><br />
-1. Demonstrar capacidade de organização<br />
-2. Demonstrar zelo pelos equipamentos<br />
-<b>Trabalho em equipe</b><br />
-3. Trabalhar de forma colaborativa<br />
-<b>Pensamento analítico</b><br />
-4. Demonstrar raciocínio lógico<br />
+<b>Autogestão</b>
+1. Demonstrar capacidade de organização
+2. Demonstrar zelo pelos equipamentos
+<b>Trabalho em equipe</b>
+3. Trabalhar de forma colaborativa
+<b>Pensamento analítico</b>
+4. Demonstrar raciocínio lógico
