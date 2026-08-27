@@ -38,7 +38,6 @@ Material de Estudo para o Curso de Técnico em Administração, Eletroeletrônic
             O que é? (Definição);
             Qual sua aplicação;
             Quais os pilares (cite um exemplo de uso);
-
     - Tempo máximo de 15 minutos;
 </pre>
 
