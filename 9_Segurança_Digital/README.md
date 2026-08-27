@@ -42,8 +42,10 @@ Material de Estudo para o Curso de Técnico em Administração, Eletroeletrônic
 </pre>
 
 <h3>Recursos a serem utilizados:</h3>
-  - Caderno;
-  - Caneta / Lápis;
-  - Computador;
-  - Software de Apresentação (Canva, Power Point e outros). *não obrigatório!
+<pre>
+    - Caderno;
+    - Caneta / Lápis;
+    - Computador;
+    - Software de Apresentação (Canva, Power Point e outros). *não obrigatório!
+  </pre>
   
