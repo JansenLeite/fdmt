@@ -28,9 +28,9 @@ Material de Estudo para o Curso de Técnico em Administração, Eletroeletrônic
 <pre>
     - Deverá ser montada 3 equipes através de sorteio;
     - Cada equipe irá apresentar os temas propostos abaixo:
-      <b>Golpes Digitais:</b><br />
-          <li>O que é? (Definição);</li>
-          <li>Tipos de Golpes (Como acontece e como se proteger);</li>
+      <b>Golpes Digitais:</b>
+            O que é? (Definição);
+            Tipos de Golpes (Como acontece e como se proteger);
       <b>Softwares Maliciosos:</b>
       <b>LGPD:</b>
 </pre>
