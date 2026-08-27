@@ -27,7 +27,7 @@ Material de Estudo para o Curso de Técnico em Administração, Eletroeletrônic
 <h3>Instruções:</h3>
 <pre>
     - Deverá ser montada 3 equipes através de sorteio;
-    - Cada equipe irá se organizar e montar uma apresentação os temas propostos abaixo:
+    - Cada equipe irá se organizar e montar uma apresentação dos temas propostos abaixo:
       <b>GOLPES DIGITAIS:</b>
             O que é? (Definição);
             Tipos de Golpes (Como acontece e como se proteger);
@@ -46,6 +46,6 @@ Material de Estudo para o Curso de Técnico em Administração, Eletroeletrônic
     - Caderno;
     - Caneta / Lápis;
     - Computador;
-    - Software de Apresentação (Canva, Power Point e outros). *não obrigatório!
-  </pre>
+    - Software de Apresentação (Canva, PowerPoint e outros). *não obrigatório!
+</pre>
   
