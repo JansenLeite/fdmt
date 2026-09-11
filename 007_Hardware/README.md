@@ -20,7 +20,7 @@ Material de Estudo para o Curso de Técnico em Administração, Eletroeletrônic
 <h3>Material de Apoio:</h3>
 
 <h4>Introdução a Hardware</h4>
-<pre><a href="https://github.com/JansenLeite/fdmt/blob/main/7_Hardware/FDMT_02_01_Introdu%C3%A7%C3%A3o_hardware.pdf">Clique aqui para acessá-lo.</a></pre>
+<pre><a href="https://github.com/JansenLeite/fdmt/blob/main/007_Hardware/FDMT_02_01_Introdu%C3%A7%C3%A3o_hardware.pdf">Clique aqui para acessá-lo.</a></pre>
 
 <h3>Atividades Avaliativas</h3>
 
