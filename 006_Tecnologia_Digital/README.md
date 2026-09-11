@@ -15,7 +15,7 @@ Material de Estudo para o Curso de Técnico em Administração e Eletroeletrôni
 <h3>Material de Apoio:</h3>
 
 <h4>Introdução a Tecnologia Digital</h4>
-<pre><a href="https://github.com/JansenLeite/fdmt/blob/main/6_Tecnologia_Digital/FDMT_01_01_Introducao_Tecnologia_Digital.pdf">Clique aqui para acessá-lo.</a></pre>
+<pre><a href="https://github.com/JansenLeite/fdmt/blob/main/006_Tecnologia_Digital/FDMT_01_01_Introducao_Tecnologia_Digital.pdf">Clique aqui para acessá-lo.</a></pre>
 
 <h4>Vídeo - A História da Microsoft (Bill Gates)</h4>
 <pre><a href="https://www.youtube.com/watch?v=rQUklkkNrTs">Clique aqui para assistir.</a></pre>
