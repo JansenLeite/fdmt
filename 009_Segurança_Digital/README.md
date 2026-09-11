@@ -17,7 +17,7 @@ Material de Estudo para o Curso de Técnico em Administração, Eletroeletrônic
 <h3>Material de Apoio:</h3>
 
 <h4>Introdução a Segurança Digital</h4>
-<pre><a href="https://github.com/JansenLeite/fdmt/blob/main/9_Seguran%C3%A7a_Digital/FDMT_04_01_Seguranca_Digital.pdf">Clique aqui para acessá-lo.</a></pre>
+<pre><a href="https://github.com/JansenLeite/fdmt/blob/main/009_Seguran%C3%A7a_Digital/FDMT_04_01_Seguranca_Digital.pdf">Clique aqui para acessá-lo.</a></pre>
 
 <h3>Atividade Avaliativa</h3>
 
