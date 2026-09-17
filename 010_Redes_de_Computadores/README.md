@@ -1,7 +1,7 @@
-# Segurança Digital
+# Rede de Computadores
 Material de Estudo para o Curso de Técnico em Administração, Eletroeletrônica e Desenvolvimento de Sistemas - SENAI Jaguariúna.
 
-<h3>Módulo: Segurança Digital</h3>
+<h3>Módulo: Rede de Computadores</h3>
 
 <h4>Conhecimentos Adquiridos:</h4>
 
