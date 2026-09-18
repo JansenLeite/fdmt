@@ -17,7 +17,7 @@ Material de Estudo para o Curso de Técnico em Administração, Eletroeletrônic
 <h4>Introdução a Arquitetura de Redes</h4>
 <pre><a href="https://github.com/JansenLeite/fdmt/blob/main/010_Redes_de_Computadores/FDMT_01_01_Arquitetura_de_Redes.pdf">Clique aqui para acessá-lo.</a></pre>
 
-<h3>Atividade em Grupo:</h3>
+<h3>Atividade Individual:</h3>
 
 <h4>Instruções da Atividade</h4>
 <pre>
