@@ -119,3 +119,6 @@ Material de Estudo para o Curso de Técnico em Administração e Eletroeletrôni
     <b>Pensamento analítico</b>
         4. Demonstrar raciocínio lógico.
 </pre>
+
+<h3>Auto Avaliação do Aluno</h3>
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUMTJJWVBPQ1BFWDE2OE5XVTFQNkczTUxXQS4u">Clique aqui para preencher o formulário.</a>
